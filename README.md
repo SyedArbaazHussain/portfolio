@@ -21,6 +21,6 @@
 ## Link
 <div align="center">
   
-[![View site - Portfolio](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://syedarbaazhussain.github.io/Portfolio/)
+[![Visit - Portfolio](https://img.shields.io/badge/Visit-Portfolio-2ea44f?style=for-the-badge)](https://syedarbaazhussain.github.io/Portfolio/)
 
 </div>
