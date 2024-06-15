@@ -8,7 +8,9 @@
 
 ## Status
 
-[![pages build and deployment](https://github.com/SyedArbaazHussain/Portfolio/workflows/pages%20build%20and%20deployment/badge.svg)](https://github.com/SyedArbaazHussain/Portfolio/actions?query=workflow:"pages+build+and+deployment") [![issues - Portfolio](https://img.shields.io/github/issues/SyedArbaazHussain/Portfolio)](https://github.com/SyedArbaazHussain/Portfolio/issues) [![GitHub tag](https://img.shields.io/github/tag/SyedArbaazHussain/Portfolio?include_prereleases=&sort=semver&color=success)](https://github.com/SyedArbaazHussain/Portfolio/releases/)
+[![Deploy](https://github.com/SyedArbaazHussain/Portfolio/workflows/Deploy/badge.svg)](https://github.com/SyedArbaazHussain/Portfolio/actions?query=workflow:"Deploy")
+[![GitHub release](https://img.shields.io/github/release/SyedArbaazHussain/Portfolio?include_prereleases=&sort=semver&color=success)](https://github.com/SyedArbaazHussain/Portfolio/releases/)
+[![issues - Portfolio](https://img.shields.io/github/issues/SyedArbaazHussain/Portfolio)](https://github.com/SyedArbaazHussain/Portfolio/issues)
 
 ## Description
 - Built with React and optimized with Vite for enhanced performance and development efficiency.
