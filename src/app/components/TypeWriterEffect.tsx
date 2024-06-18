@@ -2,7 +2,7 @@
 
 import { cn } from "@/utils/cn";
 import { motion, stagger, useAnimate, useInView } from "framer-motion";
-import { useEffect} from "react";
+import { useEffect } from "react";
 
 export const TypeWriterEffect = ({
   words,
@@ -154,7 +154,7 @@ export const TypeWriterEffectSmooth = ({
           ease: "linear",
           delay: 1,
           repeat: Infinity,
-          repeatDelay:2,
+          repeatDelay: 2,
           repeatType: "reverse",
         }}
       >
